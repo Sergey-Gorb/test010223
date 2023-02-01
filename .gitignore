@@ -1,0 +1,17 @@
+*.pyc
+.idea/*
+.venv/*
+.env
+.python-version
+.coverage
+htmlcov/*
+static/*
+media/uploads
+media/downloads
+media/tmp
+media/email_validator_reports
+.DS_Store
+pytest_local.ini
+docker-compose.override.yml
+internal
+logs
